@@ -1,3 +1,10 @@
-.jumbotron{background-color: blue;}
+
 h1{font-style: italic;}
 .panel-header{background-color: red;}
+html{background: url(../images/earth.jpeg) no-repeat center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+-o-background-size:cover;}
+p{font-family: serif; font-size: 20px;font-size-adjust: auto;text-align: center;}
+.ww{font-size: 20px}
+.ee{font-size: 20px}
