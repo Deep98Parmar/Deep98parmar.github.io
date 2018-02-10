@@ -1584,6 +1584,7 @@ pre code {
 .container {
   padding-right: 15px;
   padding-left: 15px;
+background-image: url(../images/earth.jpeg);
 
   margin-right: auto;
   margin-left: auto;
