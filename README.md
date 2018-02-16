@@ -1,6 +1,6 @@
 # Deep98parmar.github.io
 Portfolio
-# Porfoli
+# Portfolio
 #### A personal porfolio and abit of work, 2018
 #### By Deep Parmar
 ## Description
